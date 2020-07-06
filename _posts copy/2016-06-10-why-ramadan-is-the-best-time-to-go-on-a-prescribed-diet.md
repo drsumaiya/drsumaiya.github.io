@@ -1,0 +1,47 @@
+---
+layout: post
+title: Why Ramadan is the best time to go on a prescribed diet
+date: 2016-06-10 06:23:22.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Healthy Eating
+- Patient Education
+tags: []
+meta:
+  _page_sidebar_position: right
+  _edit_last: '1'
+  slide_template: default
+  _page_sidebar_ids: a:1:{i:0;s:15:"default-sidebar";}
+  _wpas_done_all: '1'
+  _jetpack_dont_email_post_to_subs: '1'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1591529734;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:1798;}i:1;a:1:{s:2:"id";i:1818;}i:2;a:1:{s:2:"id";i:1810;}}}}
+  _wpas_skip_16758345: '1'
+  _wpas_skip_16758378: '1'
+author:
+  login: sumaiya
+  email: admin@drsumaiya.com
+  display_name: sumaiya
+  first_name: ''
+  last_name: ''
+permalink: "/why-ramadan-is-the-best-time-to-go-on-a-prescribed-diet/"
+---
+Ramadan is around the corner and it isn’t always thought of as being an opportunity to lose weight because the spiritual aspect is emphasised more generally than the health aspect.However, it’s a great chance to get the physical benefits as well. Ramadan fasting can also be viewed as a special form of dieting as it enforces control over the dietary behaviour of the fasting person. Ramadan fasting is a dietary control given by Allah himself so that we can focus more on worship.
+
+Islam discourages binging on food , but unfortunately in Ramadan people forget this directive and consume many foods which are harmful and cause unnecessary weight gain. If you go on a personalized diet in Ramadan as prescribed by me, then it will help you in stronger self control and hence also help more in the spiritual aspect of Ramadan. By having a prescribed diet specially designed for Ramadan you will save both time and money which you can channel to the main essence of Ramadan fasting i.e worship. The Ramadan diet plan is designed taken into consideration various parameters like your ramadan food habits, your prayer schedule and sleep patterns.
+
+I will need to carry out detailed assessment in your case, After assessing your personal challenges to weight management and your detailed health assessment. I will recommend strategy and holistic medications that will help you to gradually change habits in the context of Ramadan and attitudes that have sabotaged your past efforts.
+
+If you suffer from any of the following diseases then , a Ramadan diet plan is highly recommended and in some cases could be life saving:
+
+- Diabetes  
+High BP  
+Obesity  
+Kidney diseases  
+Liver diseases  
+Thyroid problems  
+PCOD etc
+- You can forward this to your friends and family who will be partaking the Ramadan fasting.

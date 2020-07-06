@@ -1,0 +1,38 @@
+---
+layout: post
+title: Top 5 tips to lose fat as fast as possible
+date: 2017-03-02 12:32:51.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- fat-loss
+- Healthy Eating
+tags: []
+meta:
+  _page_sidebar_position: right
+  _edit_last: '1'
+  _thumbnail_id: '1917'
+  _page_sidebar_ids: a:1:{i:0;s:15:"default-sidebar";}
+  _wpas_done_all: '1'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1590650963;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:1810;}i:1;a:1:{s:2:"id";i:1769;}i:2;a:1:{s:2:"id";i:1971;}}}}
+author:
+  login: sumaiya
+  email: admin@drsumaiya.com
+  display_name: sumaiya
+  first_name: ''
+  last_name: ''
+permalink: "/top-5-tips-to-lose-fat-as-fast-as-possible/"
+---
+1. Drink more water. One study shows that drinking water half an hour before meals helps you eat fewer calories and lose 44% more weight. It can also boost metabolism slightly.
+
+2. Eat a high-protein breakfast. Studies show that people who replace a grain-based breakfast with high-protein foods like eggs, chicken etc without added oil\fat feel full for the next 36 hours and lose up to 65% more weight.
+
+3. Eat viscous fiber. Viscous fiber supplements like glucomannan can help you lose weight, especially around the belly area.
+
+4. Use smaller plates. Studies show that people automatically eat less when they use smaller plates. Strange, but it works.
+
+5. Sleep better. Poor sleep is one of the strongest risk factors for weight gain and obesity, taking care of your sleep is important.
+

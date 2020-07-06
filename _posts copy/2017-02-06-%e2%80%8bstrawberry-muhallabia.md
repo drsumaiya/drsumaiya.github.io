@@ -1,0 +1,32 @@
+---
+layout: post
+title: "​Strawberry Muhallabia "
+date: 2017-02-06 23:49:25.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- recipes
+tags: []
+meta:
+  _wpas_done_all: '1'
+  _jetpack_dont_email_post_to_subs: '1'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1592710205;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:1788;}i:1;a:1:{s:2:"id";i:1790;}i:2;a:1:{s:2:"id";i:2000;}}}}
+author:
+  login: sumaiya
+  email: admin@drsumaiya.com
+  display_name: sumaiya
+  first_name: ''
+  last_name: ''
+permalink: "/%e2%80%8bstrawberry-muhallabia/"
+---
+[![]({{ site.baseurl }}/assets/images/wp-1486405139061.jpg)](http://drsumaiya.com/wp-content/uploads/2017/02/wp-1486405139061.jpg)
+
+Take 15 strawberries and chop them well. Add a 2 or 3 tbsps of sugar and cook until the water had dried up and the mixture thickens.  
+Take 1 liter milk in a vessel.To it add 4 tbsps &nbsp;cornflour,1-1/2 tbsps heaped rice flour and 8 tbsps sugar (you can add more sugar). Mix it and switch on the flame. Cook the milk while stirring with a whisk continuously on a medium flame.After 8-10 minutes when the milk comes to a boil and thickens allow it to cook for another 2-3 minutes.&nbsp;  
+Switch off the flame and add 1 tsp strawberry essence and 1/2 tsp orange blossom water. Mix well. If desired add 3 tbsps of heavy cream and mix well. Allow it to cool and then add the prepared strawberry purée to it. Mix well.  
+Assembling and Serving&nbsp;  
+sprinkle a layer of pistachio powder and pour Muhallabia on it and sprinkle pistachio powder again.Also add a few almond flakes, strawberry pieces and pour strawberry sauce on it if you like it to be extra sweet.
+
