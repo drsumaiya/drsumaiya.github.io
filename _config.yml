@@ -27,6 +27,7 @@ permalink: /:title/
 # Build settings
 markdown: kramdown
 theme: minimal
+
 plugins:
   - jekyll-feed
 
