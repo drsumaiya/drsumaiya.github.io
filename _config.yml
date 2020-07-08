@@ -16,8 +16,8 @@
 title: Dr Sumaiya Petiwala
 email: doc@drsumaiya.com
 description: I am a Registered Dietitian and Doctor that will help you solve your health concerns using a holistic combination of Diet, workout and medications if any. For diet and weight management consulting or dietary therapy for your problems you can send an email with subject “diet plan” to doc@drsumaiya.com OR Whatsapp 7208660987 and I will send you instructions to proceed further.
-baseurl: / # the subpath of your site, e.g. /blog
-url: https://drsumaiya.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drsumaiya
 github_username:  drsumaiya
 show_excerpts: false
